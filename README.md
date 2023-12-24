@@ -32,37 +32,53 @@ Before you begin, ensure you have met the following requirements:
 
 Clone the repository:
 
+```bash
     git clone https://github.com/FDREAMER2003/Laravel-Task-App.git
+```
 
 To install the required packages and initialize the Laravel application, follow these steps:
 
 1. Change to the directory of the cloned repository:
 
+```bash
     cd Laravel-Task-App/
+```
 
 2. Install the required packages using Composer:
 
+```bash
     composer install
+```
 
 3. Copy the Environment File:
 
+```bash
     cp .env.example .env
+```
 
 4. Generate Application Key:
 
+```bash
     php artisan key:generate
+```
 
 5. Configure Database:
 
+```bash
     Update the .env file with your database credentials (DB_DATABASE, DB_USERNAME, DB_PASSWORD).
+```
 
 6. Run Migrations:
 
+```bash
     php artisan migrate
+```
 
 7. Start the Development Server:
 
+```bash
     php artisan serve
+```
 
 Your application will be available at http://localhost:8000.
 Open a Browser and visit http://localhost:8000 to start using the application.
