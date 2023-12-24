@@ -79,14 +79,11 @@ Open a Browser and visit http://localhost:8000 to start using the application.
 
 ## Screenshots
 
-Screenshot of the index page showing a list of all tasks
-![Alt Text](screenshots/AllTasks.jpeg)
+![All Tasks](screenshots/AllTasks.jpeg)
 
-Screenshot of the index page showing a list of filtered tasks that have been completed.
-![Alt Text](screenshots/FilteredTasks.jpeg)
+![Filtered Tasks](screenshots/FilteredTasks.jpeg)
 
-Screenshot of the Task Creation page.
-![Alt Text](screenshots/CreateTask.jpeg)
+![Task Creation](screenshots/CreateTask.jpeg)
 
-Screenshot of the Task Creation page.
-![Alt Text](screenshots/validationerror.jpeg)
+![Validation Error](screenshots/validationerror.jpeg)
+
