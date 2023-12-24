@@ -26,20 +26,20 @@ This web application is built using Laravel and provides a simple interface for 
 Before you begin, ensure you have met the following requirements:
 
 -   [Composer](https://getcomposer.org/) installed
--   A web server such as Apache or Nginx
+-   A web server such as Apache, Nginx or XAMPP
 -   PHP version 7.4 or higher with PDO extension enabled
 
 ## Installation
 
 Clone the repository:
 
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/FDREAMER2003/Laravel-Task-App.git
 
 To install the required packages and initialize the Laravel application, follow these steps:
 
 1. Change to the directory of the cloned repository:
 
-    cd your-repository
+    cd Laravel-Task-App/
 
 2. Install the required packages using Composer:
 
