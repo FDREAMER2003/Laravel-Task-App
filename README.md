@@ -38,7 +38,7 @@ To install the required packages and initialize the Laravel application, follow 
 
 1. Change to the directory of the cloned repository:
 
-    cd your-repository
+    cd Laravel-Task-App/
 
 2. Install the required packages using Composer:
 
