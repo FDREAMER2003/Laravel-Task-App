@@ -83,10 +83,10 @@ Screenshot of the index page showing a list of all tasks
 ![Alt Text](screenshots/AllTasks.jpeg)
 
 Screenshot of the index page showing a list of filtered tasks that have been completed.
-![Alt Text](screenshot/FilteredTasks.jpeg)
+![Alt Text](screenshots/FilteredTasks.jpeg)
 
 Screenshot of the Task Creation page.
-![Alt Text](screenshot/CreateTask.jpeg)
+![Alt Text](screenshots/CreateTask.jpeg)
 
 Screenshot of the Task Creation page.
-![Alt Text](screenshot/validationerror.jpeg)
+![Alt Text](screenshots/validationerror.jpeg)
