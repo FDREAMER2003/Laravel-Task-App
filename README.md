@@ -8,7 +8,6 @@ This web application is built using Laravel and provides a simple interface for 
 -   [Prerequisites](#prerequisites)
 -   [Installation](#installation)
 -   [Usage](#usage)
--   [Screenshots] (#screenshots)
 
 ## Features
 
@@ -76,17 +75,3 @@ Open a Browser and visit http://localhost:8000 to start using the application.
 4. Mark tasks as completed or pending using the provided options.
 5. Delete tasks you no longer need.
 6. Use the sorting and filtering options to organize your tasks based on your preferences.
-
-## Screenshots
-
-Screenshot of the index page showing a list of all tasks
-![Alt Text](AllTasks.jpeg)
-
-Screenshot of the index page showing a list of filtered tasks that have been completed.
-![Alt Text](FilteredTasks.jpeg)
-
-Screenshot of the Task Creation page.
-![Alt Text](CreateTask.jpeg)
-
-Screenshot of the Task Creation page.
-![Alt Text](validationerror.jpeg)
